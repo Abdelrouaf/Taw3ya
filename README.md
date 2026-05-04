@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌙_Live_Demo-Visit_Site-d4a574?style=for-the-badge&labelColor=1a1a2e)](https://tawaya-hub.vercel.app/)
+
+### 👉 [**tawaya-hub.vercel.app**](https://tawaya-hub.vercel.app/)
+
+</div>
+
 # Taw3ya — Quran & Azkar
 
 A modern, responsive Islamic web app for reading the Holy Quran and reciting daily Azkar (remembrances). Built with a warm, premium aesthetic and a focus on readability, the app brings together Quran recitation, multilingual translations, and authentic supplications in one clean interface.
